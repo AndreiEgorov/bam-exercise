@@ -8,7 +8,6 @@ const styles = {
     height: '120px',
     zIndex: 101,
     position: 'fixed',
-    border: '2px white solid',
     display: 'flex',
     justifyContent: 'space-between',
     backgroundImage:
